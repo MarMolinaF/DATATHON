@@ -4,9 +4,11 @@ These notebooks are the results of a few months of learning Data Science and Dat
 
 📝 NOTEBOOKS: 
 
-SESIÓN 1: EDA (Notebook_sesion1_Datathon_EDA)
-SESIÓN 2: MODELADO (Notebook_sesion2_Datathon_Modelado)
-SESIÓN 3: MLFLOW (Notebook_sesion3_Datathon_MLflow)
+SESIÓN 1: EDA (Notebook_sesion1_Datathon_EDA);
+
+SESIÓN 2: MODELADO (Notebook_sesion2_Datathon_Modelado);
+
+SESIÓN 3: MLFLOW (Notebook_sesion3_Datathon_MLflow);
 
 
  🚀 Libraries used in this project:
